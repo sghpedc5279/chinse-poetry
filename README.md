@@ -95,15 +95,9 @@
 
 无论通过哪种形式贡献最终都会使之变得更好！
 
-### 赞助者
 
-无
 
-### 贡献者
 
-<p align="center">
-<img src="https://opencollective.com/chinese-poetry/contributors.svg?width=890&button=false" alt="Contributors">
-</p>
 
 ## 案例展示
 
